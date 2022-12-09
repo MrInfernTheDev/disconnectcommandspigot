@@ -1,0 +1,7 @@
+name: DisconnectCommand
+version: '${project.version}'
+main: disconnectcommand.disconnectcommand.DisconnectCommand
+api-version: 1.19
+commands:
+  disconnect:
+  dcreload:

@@ -1,0 +1,7 @@
+name: DisconnectCommand
+version: '1.0'
+main: disconnectcommand.disconnectcommand.DisconnectCommand
+api-version: 1.19
+commands:
+  disconnect:
+  dcreload:
